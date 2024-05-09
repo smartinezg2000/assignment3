@@ -3,6 +3,10 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("hola");
+        imprimir();
 
+    }
+    public static void imprimir(){
+        System.out.println("Assignment 3 by Simon Martinez");
     }
 }
